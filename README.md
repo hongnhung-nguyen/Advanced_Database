@@ -1,6 +1,5 @@
 # Advanced_Database
 
-# CoSoDuLieuNangCao
 Đồ án CSDL nâng cao 2022-2023
 - Phân tích, tổng hợp, thiết kế database tối ưu
 - Thiết kế CSDL quan hệ ở mức quan niệm và logic và vật lý
