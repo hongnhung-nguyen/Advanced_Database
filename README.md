@@ -9,9 +9,9 @@
 - Nâng cao hiệu xuất , performance
 - Cái đặt ứng dụng winform C#
 
-Team members:
+# Team members:
 
-20120079_Trịnh Hữu Hiệp
-20120093_Nguyễn Thị Hồng Nhung
-20120177_Trần Thái San
-20120229_Nguyễn Nhật Trường
+- 20120079_Trịnh Hữu Hiệp
+- 20120093_Nguyễn Thị Hồng Nhung
+- 20120177_Trần Thái San
+- 20120229_Nguyễn Nhật Trường
